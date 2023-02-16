@@ -1,0 +1,17 @@
+div{
+   margin: 100px;
+   padding: 100px;
+   border-top-color: blueviolet;
+   border-top-style: dotted;
+   border-bottom-color: red;
+   border-bottom-style: solid;
+   border-left-color: black;
+   border-left-style: double;
+   border-left-width: 10px;
+   border-right-style: dashed;
+   border-right-color: blue;
+   border-right-width: 20px;
+
+
+   ;
+}

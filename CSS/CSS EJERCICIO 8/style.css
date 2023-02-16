@@ -1,0 +1,5 @@
+*{background-color: palevioletred;}
+p{column-count: 3; column-gap: 40px; column-rule-style: solid; column-rule-color: red; column-rule-width: 2px;}
+h1:hover{color: red;}
+p:hover{background-color:violet;color: rgb(29, 125, 26);}
+
