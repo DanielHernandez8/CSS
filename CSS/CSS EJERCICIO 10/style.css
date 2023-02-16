@@ -6,6 +6,7 @@
     margin-right: auto;
     border-style: solid;
     text-align: left;
+    padding: 10px;
     background-color: red;
 }
 
@@ -16,6 +17,7 @@
     margin-right: auto;
     border-style: solid;
     text-align: center;
+    padding: 10px;
     background-color: red;
 }
 
@@ -27,5 +29,6 @@
     margin-right: auto;
     border-style: solid;
     text-align: right;
+    padding: 10px;
     background-color: red;
 }
