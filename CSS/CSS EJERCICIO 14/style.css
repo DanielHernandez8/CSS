@@ -10,45 +10,57 @@
 }
 .aizq {
     background-color: green;
-    height: 100px;
-    width: 100px;
+    height: 46px;
+    width: 46px;
     border-color: black;
     border-radius: 50%;
     position: relative;
     text-align: center;
     display: block;
+    border: solid;
+    right: 24px;
+    top: -24px;
     
     
 }
 .bizq{
     background-color: green;
-    height: 100px;
-    width: 100px;
+    height: 46px;
+    width: 46px;
     border-color: black;
     border-radius: 50%;
     position: relative;
     text-align: center;
-    display: block;}
+    display: block;
+    border: solid;
+    right: 25px;
+    top: 269px;}
 
-    .adcha {
+.adcha {
         background-color: green;
-        height: 100px;
-        width: 100px;
+        height: 46px;
+        width: 46px;
         border-color: black;
         border-radius: 50%;
         position: relative;
         text-align: center;
         display: block;
+        border: solid;
+        left: 374px;
+        top: -75px;
         
     }
 
-    .bdcha {
+.bdcha {
         background-color: green;
-        height: 100px;
-        width: 100px;
+        height: 46px;
+        width: 46px;
         border-color: black;
         border-radius: 50%;
         position: relative;
         display: block;
         text-align: center;
+        right: -377px;
+        top: 220px;
+        border: solid;
     }
