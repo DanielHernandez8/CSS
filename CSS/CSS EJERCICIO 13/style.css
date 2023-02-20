@@ -1,0 +1,16 @@
+div{background-color: red;
+width: 400px;
+height: 400px;
+outline-style: dotted;
+outline-color: rgb(2, 232, 2);
+outline-width: 10px;
+margin-left: 10px;
+margin-top: 20px;
+
+}
+div:hover{
+    outline-color: black;
+}
+div:active{
+    outline-color: green;
+}

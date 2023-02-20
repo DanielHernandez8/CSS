@@ -1,0 +1,54 @@
+.General{background-color: red;
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-color: black;
+    border-style: solid;
+    position: absolute;
+    display: block;
+}
+.aizq {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-radius: 50%;
+    position: relative;
+    text-align: center;
+    display: block;
+    
+    
+}
+.bizq{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-radius: 50%;
+    position: relative;
+    text-align: center;
+    display: block;}
+
+    .adcha {
+        background-color: green;
+        height: 100px;
+        width: 100px;
+        border-color: black;
+        border-radius: 50%;
+        position: relative;
+        text-align: center;
+        display: block;
+        
+    }
+
+    .bdcha {
+        background-color: green;
+        height: 100px;
+        width: 100px;
+        border-color: black;
+        border-radius: 50%;
+        position: relative;
+        display: block;
+        text-align: center;
+    }
