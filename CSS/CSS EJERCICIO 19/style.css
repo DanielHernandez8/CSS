@@ -1,0 +1,125 @@
+.general{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cabecera{
+   
+    width: 100%;
+    height: 90px;
+    display:flex;
+    justify-content:space-around
+    
+}
+
+.ca1{
+    background-color: orange;
+    width: 50%;
+    height: 90px;
+   
+  
+}
+.ca2{
+    background-color:orange;
+    width: 49%;
+    height: 90px;
+   
+
+}
+
+.cuerpo{
+    background-color: greenyellow;
+    width: 100%;
+    height: 400px;
+    
+    
+}
+
+.cuerpo2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    
+
+}
+
+.cu1{
+    background-color: blue;
+    width: 30%;
+    height: 250px;
+}
+
+.cu2{
+    background-color: blue;
+    width: 30%;
+    height: 250px;
+}
+
+.cu3{
+    background-color: blue;
+    width: 30%;
+    height: 250px;
+}
+
+.pie{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.pi1{
+    background-color: grey;
+    width: 30%;
+    height: 190px;
+}
+.pi2{
+    background-color: grey;
+    width: 30%;
+    height: 190px;
+}
+.pi3{
+    background-color: grey;
+    width: 30%;
+    height: 190px;
+}
+
+.pi4{
+    background-color: grey;
+    width: 30%;
+    height: 190px;
+}
+/* media querys */
+
+@media(max-width:768px){
+    .cuerpo{
+        background-color: red;
+    }
+    .cuerpo2{
+        flex-direction: column;
+        width: 100%;
+        gap: 15px;
+    }
+.cu1{
+    width: 100%;
+    height: 100px;
+}
+.cu2{
+    width: 100%;
+    height: 100px;
+}
+.cu3{
+    width: 100%;
+    height: 100px;}
+
+.pie{
+
+}
+
+
+
+}
