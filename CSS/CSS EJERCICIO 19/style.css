@@ -96,6 +96,16 @@
 /* media querys */
 
 @media(max-width:768px){
+   .cabecera{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    height: 200px;
+   }
+   .cabecera>div{
+    width: 100%;
+   }
     .cuerpo{
         background-color: red;
     }
@@ -117,6 +127,38 @@
     height: 100px;}
 
 .pie{
-
+    flex-wrap:wrap;
+    
 }
+}
+
+.pie{
+    gap: 14px;
+}
+
+.pi1{
+    width: 49%;
+}
+.pi2{
+    width: 49%;
+}
+
+.pi3{
+    width: 49%;
+}
+
+.pi4{
+    width: 49%;
+}
+
+@media(max-width:320px){
+
+.pie{
+    justify-content: center;
+}
+.pie>div{
+width: 100%;
+}
+
+
 }
